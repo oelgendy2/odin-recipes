@@ -1,19 +1,22 @@
 body {
     font-family: 'Times New Roman', serif, sans-serif;
     font-size: 22px;
-    background-color: rgb(120, 181, 238);
-    color: rgb(27, 72, 219);
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 2, 2);
 }
 .Recipes {
-    background-color: #eee;
-    margin: 0 auto;
+    width: auto;
+    background-color: #87a7eb; 
+    margin: 16px auto;
 }
 h1 {
     padding: 16px;
+    margin-bottom: auto;
 }
 .lasagna,
 .koshary {
-    color: rgb(20, 20, 83);
+    color: rgb(255, 255, 255);
+    margin: 20px 26px;
 }
 h1,
 h3 {
